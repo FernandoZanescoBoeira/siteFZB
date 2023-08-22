@@ -8,6 +8,7 @@ body{
     font-family: 'Chonburi', cursive;
 }
 .cabecalho{
+    background-image: linear-gradient(#c6c7cc,#1f54db);
     background-color:  #4a619b;
     
 }
